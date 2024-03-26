@@ -21,5 +21,11 @@ Warehouse demand over years showed an increasing trend until 2018, with a declin
 ## Forecasting Results
 The forecast focused on the product with the highest demand in category 019 for 2019. An exponential smoothing model projected demand for the year 2020, taking into account trends and seasonality. The forecast for the next 12 months was visualized, demonstrating the anticipated cyclical demand.
 
+![image](https://github.com/Gazalpreetk/Product-Demand-Forecasting/assets/152589633/3a939516-d4a9-4b37-94bb-9d3c9c09eb3e)
+
+![image](https://github.com/Gazalpreetk/Product-Demand-Forecasting/assets/152589633/1191204c-0897-4eac-a0ff-d80c3d6e112f)
+
+
+
 ## Conclusions
 The project illustrates how machine learning can revolutionize demand forecasting in manufacturing, with exponential smoothing providing reliable future demand projections. The insights gained are pivotal for inventory management and operational efficiency, showcasing the importance of machine learning models in strategic planning in dynamic market environments.
